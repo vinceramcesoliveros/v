@@ -4,21 +4,18 @@ sections:
   - section_id: hero
     component: HeroBlock
     type: heroblock
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+
   - section_id: about
     component: ContentBlock
     type: contentblock
-    title: About
+    title: About Me
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      I love to build stuff. I care for privacy and transparency. I took Bachelor of Science in Information Technology and I got into more in-depth about developing application and modularize the structure of the program to make a better develoepr experience.
     actions:
       - label: Contact Me
         url: /contact
+      - label: Projects
+        url: /projects
   - section_id: recent-posts
     component: PostsBlock
     type: postsblock

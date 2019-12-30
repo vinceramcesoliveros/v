@@ -2,9 +2,9 @@
 title: Contact
 menus:
   main:
-    weight: 5
+    weight: 1
     title: Contact
 template: contact
 ---
 
-To get in touch fill the form below.
+We'll talk more if you're interested

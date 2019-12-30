@@ -1,22 +1,40 @@
 {
-    "links": [
-        {
-            "type": "twitter",
-            "title": "Twitter",
-            "icon": "fa-twitter",
-            "url": "https://twitter.com/vinceramces"
-        },
-        {
-            "type": "github",
-            "title": "GitHub",
-            "icon": "fa-github",
-            "url": "https://github.com/ram231"
-        },
-        {
-            "type": "devto",
-            "title": "DEV",
-            "icon": "fa-dev",
-            "url": "https://dev.to/clueless"
-        }
-    ]
+  "links": [
+    {
+      "type": "twitter",
+      "title": "Twitter",
+      "icon": "fa-twitter",
+      "url": "https://twitter.com/vinceramces"
+    },
+    {
+      "type": "github",
+      "title": "GitHub",
+      "icon": "fa-github",
+      "url": "https://github.com/ram231"
+    },
+    {
+      "type": "devto",
+      "title": "DEV",
+      "icon": "fa-dev",
+      "url": "https://dev.to/vinceramces"
+    },
+    {
+      "type": "facebook",
+      "title": "Facebook",
+      "icon": "fa-facebook",
+      "url": "https://facebbook.com/VgD231"
+    },
+    {
+      "type": "stackoverflow",
+      "title": "Stack Overflow",
+      "icon": "fa-stack-overflow",
+      "url": "https://stackoverflow.com/users/9388806/clueless"
+    },
+    {
+      "type": "linkedin",
+      "title": "LinkedIn",
+      "icon": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/vince-ramces-oliveros-432367166/"
+    }
+  ]
 }
