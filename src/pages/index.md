@@ -14,8 +14,6 @@ sections:
     actions:
       - label: Contact Me
         url: /contact
-      - label: Projects
-        url: /projects
   - section_id: recent-posts
     component: PostsBlock
     type: postsblock
@@ -24,6 +22,7 @@ sections:
     actions:
       - label: View Blog
         url: blog/index.html
+      
 menus:
   main:
     weight: 1
